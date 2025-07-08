@@ -64,7 +64,6 @@ Special thanks to **Inno Code** and **Eng. Ahmed Othman** for the incredible gui
 ## 🔗 Project Files
 
 - 📘 `Food_Inspection_Project.ipynb` — Full notebook with analysis
-- 📄 `Food_Inspections_20250628.csv` — Dataset
 - 📝 `README.md` — You're reading it!
 
 ---

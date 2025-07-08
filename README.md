@@ -64,14 +64,7 @@ Special thanks to **Inno Code** and **Eng. Ahmed Othman** for the incredible gui
 ## 🔗 Project Files
 
 - 📘 `Food_Inspection_Project.ipynb` — Full notebook with analysis
-- 📝 `README.md` — You're reading it!
-
----
-
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mostafa-refaat-80987a317)  
-
+- 📝 `README.md` — You're reading it! 
 ---
 
 ## ⭐ GitHub Stars Welcome!
